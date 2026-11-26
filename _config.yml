@@ -1,3 +1,6 @@
 title: AI agent security notes
 description: Notes on securing AI coding agents at the tool boundary.
 theme: jekyll-theme-minimal
+header_pages:
+  - index.md
+  - 14-rounds.md
